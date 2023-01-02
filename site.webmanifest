@@ -1,0 +1,23 @@
+   {
+    "name": "Dmartpreneur",
+    "short_name": "DNews",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8mK5-mp0CjsyrG7IClmH2dqSaiFBxpVfF0tFRJ3leOyGarSot8nSUtmooFOc0m1EiPTXT2LBt2hqX_yzIIGbLDZVwjka4r0Thd_Y4x_ID4oxL5vQBFFVxDH5jwVZ9AILuPFUslZCAlFyZdOp8mIXEjZXOaNApqJyAIzM9VueJRQZiA_xekovGzEOj/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaV10uSCJoXxq4_v-fC1XZKf_XLS3fFY40d93gdUH8c9adCKncLWyajo95HU5Khv-ljoTFHNiG_7sELywDV_IxZq71uDSdWB7SyH9UlUHXoRIa2xlgA-KmToRYBwKyvO00Peg2F_drs7sirg4kgjX91aw_AcidW4GM39BC3r6D9EGrSY02Y7qrSnnT/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.dmartpreneur.com"
+}
